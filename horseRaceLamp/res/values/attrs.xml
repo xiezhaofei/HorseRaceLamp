@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="horse_race_lamp">
+        <attr name="lampWidth" format="dimension|reference"/>
+        <attr name="lampHeight" format="dimension|reference"/>
+        <attr name="lampPadding" format="dimension|reference"/>
+        <attr name="lampNum" format="integer"/>
+        <attr name="lightLampNum" format="integer"/>
+        <attr name="lightColor" format="color|reference"/>
+        <attr name="darkColor" format="color|reference"/>
+        <attr name="rowPadding" format="dimension|reference"/>
+        
+        
+    </declare-styleable>
+    
+</resources>
